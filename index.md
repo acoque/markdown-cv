@@ -1,91 +1,99 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Arthur Coqué's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Arthur Coqué
+Geomatics engineer specialized in remote sensing (radiation physics) and data analysis.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+  <a href="mailto:arthur.coque@pm.me">arthur.coque@pm.me</a>
+  |
+  <i class="fa fa-github"></i> <a href="https://github.com/acoque">acoque</a>
+  |
+  <i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/arthur-coqué/">LinkedIn</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+I'm taking a few months off after 9 months working on monitoring CDOM in tropical reservoirs using High-res optical Earth-imaging satelites at IRSTEA's center near Aix-en-Provence.
 
-### Specialized in
+## Employment
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+`October 2019 - December 2019`
+**Remote Sensing Engineer**, *UR RECOVER, IRSTEA*, Aix-en-Provence, France.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2018-2019`
+**Master 2, Fundamentals of Remote Sensing**, *IPGP, Paris 6, Paris 7*, Paris, France.
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2016-2019`
+**Engineering degree in Geomatics**, *National School of Geographical Sciences*, greater Paris, France.
 
-- Sizar
+## Experience
 
-`1667 - death`
-__Trinity College, Cambridge__
+`April 2019 - September 2019`
+**Remote Sensing Engineer (intern)**, *UR RECOVER, IRSTEA*, Aix-en-Provence, France.
 
-- Fellow
+`June 2018 - August 2018`
+**Visiting Student Researcher**, *Division of Geological and Planetary Sciences, Caltech*, Pasadena, CA, USA.
 
+`October 2017 - January 2018`
+**Geoscientist (intern)**, *LAREG, IGN laboratory of geodesy*, Paris, France.
 
+`June 2017 - August 2017`
+**Geomatics Engineer (intern)**, *French Mapping Agency (IGN)*, Forcalquier, France
 
-## Awards
+## Presentations
 
-`2012`
-President, *Royal Society*, London, UK
+### Posters
 
-Associate, *French Academy of Science*, Paris, France
-
-
+`2018`
+Journées de la recherche IGN (greater Paris, France)
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+Estimation of CDOM/DOC concentration of Petit-Saut reservoir using remote sensing techniques *(work in progress)*
 
-### Journals
+## Technical skills
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+* Python
+* Fortran
+* MATLAB
+* Java
+* GIS
+* Web development (HTML, CSS, PHP and Javascript)
+* LaTeX
+* Bash
+* Git
+* UNIX
+* Docker
 
-`1669`
-Lectiones opticæ.
+## Areas of expertise
 
-etc. etc. etc.
+* Geomatics
+* Remote sensing
+* Geophysics
+* Signal/Image processing
+* Statistics
+* Computer science
+* Data analysis and visualization
 
-### Patents
+## Languages
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+French: Native
 
+English: TOEIC 920
 
-## Occupation
+German: Basic knowledge
 
-`1600`
-__Royal Mint__, London
+## References
 
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+Available on request.
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: February 2020 -->
 
 
